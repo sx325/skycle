@@ -1,0 +1,35 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Version {
+  id            String   @id @default(cuid())
+  ownerDid      String
+  ownerHandle   String   @db.VarChar(255)
+  generatedData String   @db.Text
+  createdAt     DateTime @default(now())
+
+  @@map("versions")
+}
+
+model AuthState {
+  key   String @id
+  state String
+
+  @@map("auth_states")
+}
+
+model AuthSession {
+  key     String @id
+  session String
+
+  @@map("auth_sessions")
+}

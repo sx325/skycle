@@ -267,7 +267,7 @@ Make sure to:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
@@ -280,6 +280,21 @@ If you encounter any issues or have questions, please:
    - Operating system
    - Error messages
    - Steps to reproduce
+
+## Sponsor Me
+
+If you find this project helpful and would like to support its development, please consider sponsoring me on GitHub:
+
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/pirmax)
+
+Your support helps me:
+- 🚀 Continue developing and maintaining this project
+- 🛠️ Add new features and improvements
+- 🐛 Fix bugs and provide support
+- 📚 Create better documentation and tutorials
+- ☕ Stay caffeinated during late-night coding sessions
+
+[**Become a sponsor →**](https://github.com/sponsors/pirmax)
 
 ## Acknowledgments
 

